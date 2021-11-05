@@ -1,0 +1,5 @@
+Não liga#Hardware#Meu computador não liga
+Manchas#Impressora#Manchas na impressao
+Fraco#Hardware#Meu ventilador está muito fraco. Creio que seja o capacitor!
+Display#Hardware#O display do meu celular não está funcionando corretamente. Alguém precisa resolver isto!
+Tricado#Hardware#O botão - do meu celular trincou. Preciso desse botão!
